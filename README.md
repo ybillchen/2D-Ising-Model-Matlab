@@ -14,7 +14,7 @@ The program is used to simulate 2D Ising model with the primary application of M
 
 Before running the program, you should add all the files into Matlab path. You'd better run the program in ising.m unless you want to improve my code.
 
-You can change temporature range and repeat times in ising.m and adjust paramaters in ising_.m simply by changing the default values.
+You can change temperature range and repeat times in ising.m and adjust paramaters in ising_.m simply by changing the default values.
 
 Enjoy your time with Ising and Matlab! Suggestions and adjustments(as well as STARs) are welcomed.
 
