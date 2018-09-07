@@ -19,3 +19,9 @@ You can change temperature range and repeat times in ising.m and adjust paramate
 Enjoy your time with Ising and Matlab! Suggestions and adjustments(as well as STARs) are welcomed.
 
 -Bill in Chengdu
+
+#### --- 7/9/2018 ---
+
+GOOD NEWS! A detailed introduction of Simulating 2D Ising Model has been uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/42629484) to view.
+
+-Bill in Beijing
