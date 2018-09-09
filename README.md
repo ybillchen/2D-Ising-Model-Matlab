@@ -19,4 +19,3 @@ Enjoy your time with Ising and Matlab! Suggestions and adjustments(as well as ST
 GOOD NEWS! A detailed introduction of Simulating 2D Ising Model has been uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/42629484) to view.
 
 Created 25/8/2018 by Bill in Chengdu
-Modified 7/9/2018 by Bill in Beiijing
