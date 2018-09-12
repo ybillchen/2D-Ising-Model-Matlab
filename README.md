@@ -14,7 +14,7 @@ Before running the program, you should add all the files into Matlab path. You'd
 
 You can change temperature range and repeat times in ising.m and adjust paramaters in ising_.m simply by changing the default values.
 
-Enjoy your time with Ising and Matlab! Suggestions and adjustments(as well as STARs) are welcomed.
+Enjoy your time with Ising and Matlab! Suggestions and adjustments (as well as STARs) are welcomed.
 
 GOOD NEWS! A detailed introduction of Simulating 2D Ising Model has been uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/42629484) to view.
 
